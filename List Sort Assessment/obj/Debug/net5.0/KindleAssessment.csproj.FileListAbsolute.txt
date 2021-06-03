@@ -1,0 +1,48 @@
+D:\Dev\KindleAssessment\bin\Debug\net5.0\KindleAssessment.exe
+D:\Dev\KindleAssessment\bin\Debug\net5.0\KindleAssessment.deps.json
+D:\Dev\KindleAssessment\bin\Debug\net5.0\KindleAssessment.runtimeconfig.json
+D:\Dev\KindleAssessment\bin\Debug\net5.0\KindleAssessment.runtimeconfig.dev.json
+D:\Dev\KindleAssessment\bin\Debug\net5.0\KindleAssessment.dll
+D:\Dev\KindleAssessment\bin\Debug\net5.0\ref\KindleAssessment.dll
+D:\Dev\KindleAssessment\bin\Debug\net5.0\KindleAssessment.pdb
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.csproj.AssemblyReference.cache
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.AssemblyInfoInputs.cache
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.AssemblyInfo.cs
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.csproj.CoreCompileInputs.cache
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.dll
+D:\Dev\KindleAssessment\obj\Debug\net5.0\ref\KindleAssessment.dll
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.pdb
+D:\Dev\KindleAssessment\obj\Debug\net5.0\KindleAssessment.genruntimeconfig.cache
+D:\Dev\KindleAssessment\List Sort\bin\Debug\net5.0\KindleAssessment.exe
+D:\Dev\KindleAssessment\List Sort\bin\Debug\net5.0\KindleAssessment.deps.json
+D:\Dev\KindleAssessment\List Sort\bin\Debug\net5.0\KindleAssessment.runtimeconfig.json
+D:\Dev\KindleAssessment\List Sort\bin\Debug\net5.0\KindleAssessment.runtimeconfig.dev.json
+D:\Dev\KindleAssessment\List Sort\bin\Debug\net5.0\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort\bin\Debug\net5.0\ref\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort\bin\Debug\net5.0\KindleAssessment.pdb
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.csproj.AssemblyReference.cache
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.AssemblyInfoInputs.cache
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.AssemblyInfo.cs
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.csproj.CoreCompileInputs.cache
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\ref\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.pdb
+D:\Dev\KindleAssessment\List Sort\obj\Debug\net5.0\KindleAssessment.genruntimeconfig.cache
+D:\Dev\KindleAssessment\List Sort Assessment\bin\Debug\net5.0\KindleAssessment.exe
+D:\Dev\KindleAssessment\List Sort Assessment\bin\Debug\net5.0\KindleAssessment.deps.json
+D:\Dev\KindleAssessment\List Sort Assessment\bin\Debug\net5.0\KindleAssessment.runtimeconfig.json
+D:\Dev\KindleAssessment\List Sort Assessment\bin\Debug\net5.0\KindleAssessment.runtimeconfig.dev.json
+D:\Dev\KindleAssessment\List Sort Assessment\bin\Debug\net5.0\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort Assessment\bin\Debug\net5.0\ref\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort Assessment\bin\Debug\net5.0\KindleAssessment.pdb
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.csproj.AssemblyReference.cache
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.AssemblyInfoInputs.cache
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.AssemblyInfo.cs
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.csproj.CoreCompileInputs.cache
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\ref\KindleAssessment.dll
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.pdb
+D:\Dev\KindleAssessment\List Sort Assessment\obj\Debug\net5.0\KindleAssessment.genruntimeconfig.cache
